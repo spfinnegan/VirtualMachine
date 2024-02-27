@@ -20,16 +20,18 @@ Here, we will click on "Download Now" where it says "Create Windows 10 Installat
 
 We double click on our download when it's done and run it. We say yes, and then we select "Create installation media(USB drive, DVD, or ISO file) for another PC. Press yes, next, and then select ISO File. 
 
-![Vulnerability Lab](https://imgur.com/byIGMCK.png)
+![Vulnerability Lab](https://imgur.com/Hsggxq1.png)
 ![Vulnerability Lab](https://imgur.com/a3J9n3T.png)
 ![Vulnerability Lab](https://imgur.com/4mmOeUZ.png)
 
-Now the VM accepts my pings.
+Once it finishes downloading, we have a file called "Windows" in our download folder which we double click on, then doubleclick on setup. 
 
-![Vulnerability Lab](https://imgur.com/AlOm8c3.png)
+![Vulnerability Lab](https://imgur.com/mmqwUkQ.png)
+![Vulnerability Lab](https://imgur.com/Aja34g3.png)
 
-This is the general screen for a basic network scan in Nessus Essentials. There are multiple videos online to go through all the steps for installing the software. I just need to put in the IP of my VM to tell it where to scan.
+We select ok a few times, next, and accept the license aggreement. We have nothing to keep, so keep the option at nothing. 
 
+![Vulnerability Lab](https://imgur.com/XevSvut.png)
 ![Vulnerability Lab](https://imgur.com/gqWQm6Y.png)
 
 After it does its first scan, we can see that it really didn't show much, which is strange because this is a fresh Windows 10 install with no updates.
